@@ -11,7 +11,7 @@
 
 > Breaking language barriers in real-time with cutting-edge speech recognition and translation technology.
 
-[Demo](https://your-demo-link.com) • [Report Bug](https://github.com/yourusername/live-translation-system/issues) • [Request Feature](https://github.com/yourusername/live-translation-system/issues)
+
 
 </div>
 
