@@ -41,7 +41,7 @@
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/live-translation-system.git
+git clone https://github.com/aryan1112003/live-translation-system
 ```
 
 2. Navigate to project directory
@@ -110,8 +110,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Aryan Acharya**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Aryan Acharya](https://linkedin.com/in/yourusername)
+- GitHub: [@yourusername](https://github.com/aryan1112003)
+- LinkedIn: [Aryan Acharya](https://www.linkedin.com/in/aryan-acharya-9b939b316/)
 
 ## 🙏 Acknowledgments
 
