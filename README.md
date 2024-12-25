@@ -110,7 +110,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Aryan Acharya**
 
-- GitHub: [@yourusername](https://github.com/aryan1112003)
+- GitHub: [aryan1112003](https://github.com/aryan1112003)
 - LinkedIn: [Aryan Acharya](https://www.linkedin.com/in/aryan-acharya-9b939b316/)
 
 ## 🙏 Acknowledgments
