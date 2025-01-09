@@ -37,10 +37,7 @@ The Live Translation System is built with the following technologies:
 3. **Translation**: The translated text is displayed to the user immediately, with options to listen to the translation in the desired language.
 4. **Feedback**: Users can rate the translation to improve the system's accuracy.
 
-## 🌐 **Live Demo**
 
-Check out the live demo of the system at:  
-[Live Translation Demo](https://aryan1112003.github.io/live-translation-system)
 
 ## 📝 **Installation Instructions**
 
